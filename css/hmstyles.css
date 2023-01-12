@@ -1,0 +1,28 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title {
+    background-color: purple;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.recipe {
+    font-size: large;
+}
+
+.one {
+    background-color: yellow;
+    color: red;
+}
+
+.two {
+    background-color: rgb(8, 84, 84);
+    color: bisque;
+}
+
+.three {
+    background-color: green;
+    color: plum;
+}
